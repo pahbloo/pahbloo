@@ -1,4 +1,10 @@
-### Hi there 👋
+# 😋👍
+
+### Hello World!
+
+----
+
+I’m currently learning to be a dev. Here you'll see, for now, my learning projects.
 
 <!--
 **pahbloo/pahbloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
