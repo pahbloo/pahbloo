@@ -1,22 +1,11 @@
-# 😋👍
+# Hello World! 😋👍
 
-### Hello World!
+👋 Hi!
+My name is **Pablo Marques**, also knows as `pahbloo` elsewhere on the internet.
 
-----
+💧 I work at [Saneago](https://www.saneago.com.br), a water and sewer company in Brazil.
+There, we're using [Giswater](https://github.com/Giswater/giswater) to manage our water networks.
 
-I’m currently learning to be a dev. Here you'll see, for now, my learning projects.
+📚 I’m currently learning frontend development on [freeCodeCamp](https://www.freecodecamp.org).
 
-<!--
-**pahbloo/pahbloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📄 I'm insterested in helping on documentation and translation of those projects.
